@@ -25,7 +25,7 @@ Um aplicativo Flutter básico demonstrando o fluxo de autenticação: Cadastro, 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/kauavelasco/
+    git clone https://github.com/kauavelasco/Auth---Firebase-Sytem.git
     ```
 
 2.  **Entre na pasta do projeto:**
